@@ -1,2 +1,3 @@
 # cajero-automatico.
-Un cajero automatico con el cual podras jugar seleccionando 3 opciones.
+Bienvenido al cajero automatico.
+- Podras iniciar sesion con nombre de "CAJERO" y con la contraseña "1313",en caso la contraseña o nombre de usuario sea incorrecto no podras acceder al cajero automatico,tambien podras ver tu saldo que es $10000 seleccionaddo la opcion "1",podras jugar retirando dinero seleccionando la opcion "2", para ello te pedira la contraseña de confirmacion "1313" al momento de seleccionar un monto de (20,50,100,150,500) o accion que quieras hacer, podras ver tu saldo cuando hayas retirado tu dinero otra vez ingresando la contraseña "1313" y recuerda que cada opcion que selecciones tendras que ingresar la contraseña y por ultimo la opcion de salir "3.", espero sea de tu agrado.
